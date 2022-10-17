@@ -1,10 +1,10 @@
 # Entangled-Spaces
                                                                                           Pipeline
 
-Tranfers:
+#duplicate idea for payments files
 
 1 - 0datasets_creation_global - usar 0globaldata.csv - retira-se 0globaldata_nd.csv que consiste em todos os dados após remover os duplicados; retira-se 0transfers_nd.csv que reúne todas 
-                                                       as transfers após remoção dos duplicados 
+                                                       as transfers após remoção dos duplicados após o passo 2
 
 
 2 - 1operativas_analysis_transfers - usar 0transfers_nd.csv - anotar as operativas a eliminar em transfers
@@ -24,7 +24,7 @@ Tranfers:
 
 5 - 2rund_transfers - usar 0transfers_nd_corr.csv - mudar a sampling strategy - faz random undersampling para selecionar aleatoriamente não-fraudes; retirar 2transfers_rund.csv que tem
                                                                                 o dataset com menos não-fraudes e continua não balanceado; retirar report 2transfers_rund.html que é o
-                                                                                profile do dataset com apenas uma sample das não fraudes e não balanceado 
+                                                                                profile do dataset com apenas uma sample das não-fraudes e não-balanceado 
 
 
 6 - 2gan_transfers - usar 2transfers_rund.csv - gera fraudes sintéticas através de uma gan; retirar 2transfers_balanced_gan+rund.csv que contém o dataset balanceado; retirar 
@@ -59,10 +59,6 @@ Tranfers:
                                                                                                                       3transfers_word2vec_matrix_originalcols_eingenvalues.csv que tem os
                                                                                                                       valores próprios da matriz produto antes do softmax; retirar scores
 
-                                                                                                                    - experimentar os 3 datasets sem a coluna da fraude e do month
-
-                                                                                                                    - experimentar sem ordenar as colunas da dataframe para os 3 datasets
-
 
 8 - 3transfers_word2vec_metrics_originalcols - alterar número de bins com base nos profile reports - ver vocabulário - usar 2frauds_transfers_balanced_gan+rund.csv - retirar scores
 												                     - usar 2transfers_balanced_smote+rund.csv - retirar scores
@@ -72,25 +68,26 @@ Tranfers:
 9 - 4graphics_word2vec - usar 3transfers_word2vec_matrix_originalcols.w2v - retirar gráficos
                        - usar 3transfers_word2vec_metrics_originalcols.w2v - retirar gráficos
 
+10 - 5frauds_transfers - usar 0frauds_transfers_nd_corr.csv - retirar 0frauds_transfers_nd_corr.html que é o profile das fraudes originais antes da geração sintética; 
+                       - usar 2frauds_transfers_balanced_smote+rund.csv - retirar 2frauds_transfers_balanced_smote+rund.html que é o profile das fraudes originais mais as geradas pelo smote;
+                       - usar 2frauds_transfers_balanced_gan+rund.csv - retirar 2frauds_transfers_balanced_gan+rund.html que é o profile das fraudes originais mais as geradas por gans
 
-10 - 5rund_transfers_with_timestamp - usar 0transfers_nd_corr.csv - mudar a sampling strategy - retirar 5transfers_rund.csv que contém o dataset com a coluna timestamp e faz random 
+
+
+Optional Path
+
+11 - 6rund_transfers_with_timestamp - usar 0transfers_nd_corr.csv - mudar a sampling strategy - retirar 6transfers_rund.csv que contém o dataset com a coluna timestamp e faz random 
                                                                                                 undersampling
 
 
-11 - 5gan_transfers_with_timestamp - usar retirar 5transfers_rund.csv  - retirar 5transfers_balanced_gan+rund.csv que contém o dataset balanceado com a coluna timestamp 
+12 - 6gan_transfers_with_timestamp - usar retirar 6transfers_rund.csv  - retirar 6transfers_balanced_gan+rund.csv que contém o dataset balanceado com a coluna timestamp 
 
 
-12 - 5transfers_column_creation - usar 5transfers_balanced_gan+rund.csv - retirar 5transfers_balanced_gan+rund_allc.csv que contém o dataset balanceado com as colunas novas; 
-                                                                          retirar 5transfers_balanced_smote+rund_allc.html que contém o profile das novas colunas (até das que não vão ser 
+13 - 6transfers_column_creation - usar 6transfers_balanced_gan+rund.csv - retirar 6transfers_balanced_gan+rund_allc.csv que contém o dataset balanceado com as colunas novas; 
+                                                                          retirar 6transfers_balanced_smote+rund_allc.html que contém o profile das novas colunas (até das que não vão ser 
                                                                           usadas para treinar o modelo)
 
 
-13 - 5transfers_word2vec_matrix_allcolumns ou 5transfers_word2vec_metrics_allcolumns conforme o que tiver melhor performance - alterar número de bins com base nos profile reports -
-                                                                                                                               ver vocabulário - 
- falta!---------                                                                                                                                usar 5transfers_balanced_smote+rund_allc.csv
-                                                                                                                               - retirar scores 
-
-
-14 - 6frauds_transfers - usar 0frauds_transfers_nd_corr.csv - retirar 0frauds_transfers_nd_corr.html que é o profile das fraudes originais antes da geração sintética; 
-                       - usar 2frauds_transfers_balanced_smote+rund.csv - retirar 2frauds_transfers_balanced_smote+rund.html que é o profile das fraudes originais mais as geradas pelo smote;
-                       - usar 2frauds_transfers_balanced_gan+rund.csv - retirar 2frauds_transfers_balanced_gan+rund.html que é o profile das fraudes originais mais as geradas por gans
+14 - 6transfers_word2vec_matrix_allcolumns ou 6transfers_word2vec_metrics_allcolumns conforme o que tiver melhor performance - alterar número de bins com base nos profile reports -
+                                                                                                                               ver vocabulário - usar 6transfers_balanced_smote+rund_allc.csv
+                                                                                                                             - retirar scores 
