@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/09cef123f2834c36bc2dad15397d9ed0/artifacts
+end_time: 1673419807992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09cef123f2834c36bc2dad15397d9ed0
+run_name: secretive-newt-385
+run_uuid: 09cef123f2834c36bc2dad15397d9ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673418899443
+status: 3
+tags: []
+user_id: BeatrizCarvalho

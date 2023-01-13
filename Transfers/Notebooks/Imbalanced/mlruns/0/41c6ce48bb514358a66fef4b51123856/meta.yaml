@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/41c6ce48bb514358a66fef4b51123856/artifacts
+end_time: 1673228232593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c6ce48bb514358a66fef4b51123856
+run_name: suave-sow-52
+run_uuid: 41c6ce48bb514358a66fef4b51123856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673227335797
+status: 3
+tags: []
+user_id: BeatrizCarvalho

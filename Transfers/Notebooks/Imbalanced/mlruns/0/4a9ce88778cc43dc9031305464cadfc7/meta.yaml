@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/4a9ce88778cc43dc9031305464cadfc7/artifacts
+end_time: 1673232716279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a9ce88778cc43dc9031305464cadfc7
+run_name: beautiful-snail-475
+run_uuid: 4a9ce88778cc43dc9031305464cadfc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673231813082
+status: 3
+tags: []
+user_id: BeatrizCarvalho

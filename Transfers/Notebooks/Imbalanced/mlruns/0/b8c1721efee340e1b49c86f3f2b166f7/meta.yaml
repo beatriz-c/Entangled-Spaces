@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b8c1721efee340e1b49c86f3f2b166f7/artifacts
+end_time: 1673438771333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8c1721efee340e1b49c86f3f2b166f7
+run_name: bittersweet-lynx-466
+run_uuid: b8c1721efee340e1b49c86f3f2b166f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673437870597
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/3b127c2197b24fe19a831d96cfe63415/artifacts
+end_time: 1673427020070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b127c2197b24fe19a831d96cfe63415
+run_name: nimble-snipe-566
+run_uuid: 3b127c2197b24fe19a831d96cfe63415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673426118179
+status: 3
+tags: []
+user_id: BeatrizCarvalho

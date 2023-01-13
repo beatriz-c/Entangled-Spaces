@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/3783f2b52c47407b9fba4bb017addfc2/artifacts
+end_time: 1673353267684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3783f2b52c47407b9fba4bb017addfc2
+run_name: rebellious-mare-494
+run_uuid: 3783f2b52c47407b9fba4bb017addfc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673352365256
+status: 3
+tags: []
+user_id: BeatrizCarvalho

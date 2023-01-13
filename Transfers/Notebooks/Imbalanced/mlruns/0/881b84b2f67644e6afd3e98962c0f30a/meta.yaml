@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/881b84b2f67644e6afd3e98962c0f30a/artifacts
+end_time: 1673377691899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 881b84b2f67644e6afd3e98962c0f30a
+run_name: loud-bear-69
+run_uuid: 881b84b2f67644e6afd3e98962c0f30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673376258022
+status: 3
+tags: []
+user_id: BeatrizCarvalho

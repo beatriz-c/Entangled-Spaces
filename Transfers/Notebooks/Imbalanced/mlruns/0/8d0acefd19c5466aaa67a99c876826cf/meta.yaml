@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/8d0acefd19c5466aaa67a99c876826cf/artifacts
+end_time: 1673468830344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d0acefd19c5466aaa67a99c876826cf
+run_name: zealous-worm-558
+run_uuid: 8d0acefd19c5466aaa67a99c876826cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673467927822
+status: 3
+tags: []
+user_id: BeatrizCarvalho

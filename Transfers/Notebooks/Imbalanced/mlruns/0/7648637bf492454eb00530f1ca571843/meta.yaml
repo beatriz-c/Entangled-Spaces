@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/7648637bf492454eb00530f1ca571843/artifacts
+end_time: 1673301107220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7648637bf492454eb00530f1ca571843
+run_name: judicious-grouse-532
+run_uuid: 7648637bf492454eb00530f1ca571843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673300207175
+status: 3
+tags: []
+user_id: BeatrizCarvalho

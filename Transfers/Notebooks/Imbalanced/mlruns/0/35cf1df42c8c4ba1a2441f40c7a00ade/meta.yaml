@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/35cf1df42c8c4ba1a2441f40c7a00ade/artifacts
+end_time: 1673231813082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35cf1df42c8c4ba1a2441f40c7a00ade
+run_name: capable-flea-260
+run_uuid: 35cf1df42c8c4ba1a2441f40c7a00ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673230921173
+status: 3
+tags: []
+user_id: BeatrizCarvalho

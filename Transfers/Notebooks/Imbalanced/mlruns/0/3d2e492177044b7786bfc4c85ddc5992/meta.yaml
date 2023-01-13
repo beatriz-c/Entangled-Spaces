@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/3d2e492177044b7786bfc4c85ddc5992/artifacts
+end_time: 1673379127919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d2e492177044b7786bfc4c85ddc5992
+run_name: delightful-hare-251
+run_uuid: 3d2e492177044b7786bfc4c85ddc5992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673377691915
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/c48cd0e0c86740c1b9af8fb7e660a2ac/artifacts
+end_time: 1673425221009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c48cd0e0c86740c1b9af8fb7e660a2ac
+run_name: puzzled-lynx-792
+run_uuid: c48cd0e0c86740c1b9af8fb7e660a2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673424320355
+status: 3
+tags: []
+user_id: BeatrizCarvalho

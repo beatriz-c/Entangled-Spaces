@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/96f93e59caa84af4b0f51acbb04b9a0e/artifacts
+end_time: 1673430636358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f93e59caa84af4b0f51acbb04b9a0e
+run_name: righteous-hog-254
+run_uuid: 96f93e59caa84af4b0f51acbb04b9a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673429727695
+status: 3
+tags: []
+user_id: BeatrizCarvalho

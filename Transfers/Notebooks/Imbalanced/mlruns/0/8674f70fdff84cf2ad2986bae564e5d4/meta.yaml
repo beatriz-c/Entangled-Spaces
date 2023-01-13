@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/8674f70fdff84cf2ad2986bae564e5d4/artifacts
+end_time: 1673486894554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8674f70fdff84cf2ad2986bae564e5d4
+run_name: amusing-frog-858
+run_uuid: 8674f70fdff84cf2ad2986bae564e5d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673485464924
+status: 3
+tags: []
+user_id: BeatrizCarvalho

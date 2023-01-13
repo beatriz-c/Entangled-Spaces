@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/4a029b7e37b74091a883b3cab885ee07/artifacts
+end_time: 1673374825298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a029b7e37b74091a883b3cab885ee07
+run_name: bustling-donkey-8
+run_uuid: 4a029b7e37b74091a883b3cab885ee07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673373391909
+status: 3
+tags: []
+user_id: BeatrizCarvalho

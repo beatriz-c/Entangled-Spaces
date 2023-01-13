@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/e4567f1a7b3f4535abe7931f92e57440/artifacts
+end_time: 1673345158644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4567f1a7b3f4535abe7931f92e57440
+run_name: burly-boar-932
+run_uuid: e4567f1a7b3f4535abe7931f92e57440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673344253219
+status: 3
+tags: []
+user_id: BeatrizCarvalho

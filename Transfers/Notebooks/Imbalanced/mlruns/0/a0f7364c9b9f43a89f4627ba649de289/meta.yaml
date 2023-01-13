@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a0f7364c9b9f43a89f4627ba649de289/artifacts
+end_time: 1673410805782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f7364c9b9f43a89f4627ba649de289
+run_name: caring-snipe-347
+run_uuid: a0f7364c9b9f43a89f4627ba649de289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673409905309
+status: 3
+tags: []
+user_id: BeatrizCarvalho

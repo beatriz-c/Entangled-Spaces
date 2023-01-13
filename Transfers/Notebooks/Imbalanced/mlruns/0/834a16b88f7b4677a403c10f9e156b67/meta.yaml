@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/834a16b88f7b4677a403c10f9e156b67/artifacts
+end_time: 1673470633226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 834a16b88f7b4677a403c10f9e156b67
+run_name: dazzling-fawn-849
+run_uuid: 834a16b88f7b4677a403c10f9e156b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673469731751
+status: 3
+tags: []
+user_id: BeatrizCarvalho

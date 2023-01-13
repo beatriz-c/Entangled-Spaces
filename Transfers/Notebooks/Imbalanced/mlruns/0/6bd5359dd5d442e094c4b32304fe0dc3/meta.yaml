@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/6bd5359dd5d442e094c4b32304fe0dc3/artifacts
+end_time: 1673352365241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bd5359dd5d442e094c4b32304fe0dc3
+run_name: exultant-lark-316
+run_uuid: 6bd5359dd5d442e094c4b32304fe0dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673351465228
+status: 3
+tags: []
+user_id: BeatrizCarvalho

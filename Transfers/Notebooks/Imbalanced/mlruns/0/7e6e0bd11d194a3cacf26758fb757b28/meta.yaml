@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/7e6e0bd11d194a3cacf26758fb757b28/artifacts
+end_time: 1673289432631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e6e0bd11d194a3cacf26758fb757b28
+run_name: righteous-snail-488
+run_uuid: 7e6e0bd11d194a3cacf26758fb757b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673288539940
+status: 3
+tags: []
+user_id: BeatrizCarvalho

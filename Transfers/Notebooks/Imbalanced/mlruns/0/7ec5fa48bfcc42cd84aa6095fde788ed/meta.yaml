@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/7ec5fa48bfcc42cd84aa6095fde788ed/artifacts
+end_time: 1673316394109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ec5fa48bfcc42cd84aa6095fde788ed
+run_name: smiling-eel-19
+run_uuid: 7ec5fa48bfcc42cd84aa6095fde788ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673315495649
+status: 3
+tags: []
+user_id: BeatrizCarvalho

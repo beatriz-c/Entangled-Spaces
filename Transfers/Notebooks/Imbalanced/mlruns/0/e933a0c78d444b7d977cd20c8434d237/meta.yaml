@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/e933a0c78d444b7d977cd20c8434d237/artifacts
+end_time: 1673274268464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e933a0c78d444b7d977cd20c8434d237
+run_name: mysterious-cod-35
+run_uuid: e933a0c78d444b7d977cd20c8434d237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673272842244
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/793ab0293cf042b784cf2406a2879370/artifacts
+end_time: 1673325359785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 793ab0293cf042b784cf2406a2879370
+run_name: classy-ram-722
+run_uuid: 793ab0293cf042b784cf2406a2879370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673324459244
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/bdf9e17cc58a484b854b526f993140d4/artifacts
+end_time: 1673491190962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdf9e17cc58a484b854b526f993140d4
+run_name: upbeat-worm-315
+run_uuid: bdf9e17cc58a484b854b526f993140d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673489752248
+status: 3
+tags: []
+user_id: BeatrizCarvalho

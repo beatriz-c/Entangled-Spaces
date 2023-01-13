@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/12ab372f6990406fbe2c13a6b208361c/artifacts
+end_time: 1673449850114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ab372f6990406fbe2c13a6b208361c
+run_name: lyrical-seal-328
+run_uuid: 12ab372f6990406fbe2c13a6b208361c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673448873985
+status: 3
+tags: []
+user_id: BeatrizCarvalho

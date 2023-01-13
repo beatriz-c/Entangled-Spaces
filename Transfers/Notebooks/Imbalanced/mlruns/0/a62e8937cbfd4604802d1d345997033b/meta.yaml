@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a62e8937cbfd4604802d1d345997033b/artifacts
+end_time: 1673376258007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62e8937cbfd4604802d1d345997033b
+run_name: brawny-quail-166
+run_uuid: a62e8937cbfd4604802d1d345997033b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673374825314
+status: 3
+tags: []
+user_id: BeatrizCarvalho

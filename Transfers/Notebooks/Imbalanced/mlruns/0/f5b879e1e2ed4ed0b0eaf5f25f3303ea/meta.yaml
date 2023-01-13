@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f5b879e1e2ed4ed0b0eaf5f25f3303ea/artifacts
+end_time: 1673230021333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5b879e1e2ed4ed0b0eaf5f25f3303ea
+run_name: welcoming-gnat-306
+run_uuid: f5b879e1e2ed4ed0b0eaf5f25f3303ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673229129722
+status: 3
+tags: []
+user_id: BeatrizCarvalho

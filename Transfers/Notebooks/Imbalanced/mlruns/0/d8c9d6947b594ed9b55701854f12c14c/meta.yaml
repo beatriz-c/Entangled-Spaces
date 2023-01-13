@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/d8c9d6947b594ed9b55701854f12c14c/artifacts
+end_time: 1673397125031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c9d6947b594ed9b55701854f12c14c
+run_name: languid-crab-802
+run_uuid: d8c9d6947b594ed9b55701854f12c14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673395290233
+status: 3
+tags: []
+user_id: BeatrizCarvalho

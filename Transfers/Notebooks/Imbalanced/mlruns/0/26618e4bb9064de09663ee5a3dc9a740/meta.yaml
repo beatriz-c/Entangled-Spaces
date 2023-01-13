@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/26618e4bb9064de09663ee5a3dc9a740/artifacts
+end_time: 1673436967662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26618e4bb9064de09663ee5a3dc9a740
+run_name: sedate-lynx-716
+run_uuid: 26618e4bb9064de09663ee5a3dc9a740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673436054956
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/0d684164787e49c69482b0a52b63fa25/artifacts
+end_time: 1673446017643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d684164787e49c69482b0a52b63fa25
+run_name: bold-fly-122
+run_uuid: 0d684164787e49c69482b0a52b63fa25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673445108132
+status: 3
+tags: []
+user_id: BeatrizCarvalho

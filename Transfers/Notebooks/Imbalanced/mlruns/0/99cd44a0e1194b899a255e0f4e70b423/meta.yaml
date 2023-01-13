@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/99cd44a0e1194b899a255e0f4e70b423/artifacts
+end_time: 1673384458310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99cd44a0e1194b899a255e0f4e70b423
+run_name: shivering-cod-714
+run_uuid: 99cd44a0e1194b899a255e0f4e70b423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673382697270
+status: 3
+tags: []
+user_id: BeatrizCarvalho

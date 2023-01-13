@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/310e28fbba014bb1b85c968eb8a9ef18/artifacts
+end_time: 1673453474449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 310e28fbba014bb1b85c968eb8a9ef18
+run_name: loud-penguin-313
+run_uuid: 310e28fbba014bb1b85c968eb8a9ef18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673452569208
+status: 3
+tags: []
+user_id: BeatrizCarvalho

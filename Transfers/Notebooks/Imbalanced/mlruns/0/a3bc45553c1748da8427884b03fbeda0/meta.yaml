@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a3bc45553c1748da8427884b03fbeda0/artifacts
+end_time: 1673457983269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3bc45553c1748da8427884b03fbeda0
+run_name: carefree-yak-934
+run_uuid: a3bc45553c1748da8427884b03fbeda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673457080537
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/2c69c5c2865045c78da2308e1106927d/artifacts
+end_time: 1673354701179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c69c5c2865045c78da2308e1106927d
+run_name: vaunted-boar-78
+run_uuid: 2c69c5c2865045c78da2308e1106927d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673353267700
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/3e356c71b8d546a58d67576c2b3fd872/artifacts
+end_time: 1673465201447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e356c71b8d546a58d67576c2b3fd872
+run_name: upbeat-skunk-735
+run_uuid: 3e356c71b8d546a58d67576c2b3fd872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673464298199
+status: 3
+tags: []
+user_id: BeatrizCarvalho

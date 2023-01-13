@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/29bda3c13ba0494d88b2b909217510f6/artifacts
+end_time: 1673495505996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29bda3c13ba0494d88b2b909217510f6
+run_name: victorious-robin-945
+run_uuid: 29bda3c13ba0494d88b2b909217510f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673494076163
+status: 3
+tags: []
+user_id: BeatrizCarvalho

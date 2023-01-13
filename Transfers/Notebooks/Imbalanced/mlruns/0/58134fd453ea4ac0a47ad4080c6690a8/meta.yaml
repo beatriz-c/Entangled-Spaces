@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/58134fd453ea4ac0a47ad4080c6690a8/artifacts
+end_time: 1673203579045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58134fd453ea4ac0a47ad4080c6690a8
+run_name: nebulous-squid-459
+run_uuid: 58134fd453ea4ac0a47ad4080c6690a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673202395225
+status: 3
+tags: []
+user_id: BeatrizCarvalho

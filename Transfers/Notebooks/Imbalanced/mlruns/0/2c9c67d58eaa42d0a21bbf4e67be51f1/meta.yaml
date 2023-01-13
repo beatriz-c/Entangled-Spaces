@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/2c9c67d58eaa42d0a21bbf4e67be51f1/artifacts
+end_time: 1673303801148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c9c67d58eaa42d0a21bbf4e67be51f1
+run_name: serious-horse-583
+run_uuid: 2c9c67d58eaa42d0a21bbf4e67be51f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673302901000
+status: 3
+tags: []
+user_id: BeatrizCarvalho

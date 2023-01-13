@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a17cc46b612b46c397f64731734ebd9c/artifacts
+end_time: 1673364765057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a17cc46b612b46c397f64731734ebd9c
+run_name: amazing-doe-563
+run_uuid: a17cc46b612b46c397f64731734ebd9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673363333929
+status: 3
+tags: []
+user_id: BeatrizCarvalho

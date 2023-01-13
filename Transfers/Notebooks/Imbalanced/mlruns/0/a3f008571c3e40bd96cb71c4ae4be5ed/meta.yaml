@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a3f008571c3e40bd96cb71c4ae4be5ed/artifacts
+end_time: 1673387335123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3f008571c3e40bd96cb71c4ae4be5ed
+run_name: masked-conch-926
+run_uuid: a3f008571c3e40bd96cb71c4ae4be5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673385895153
+status: 3
+tags: []
+user_id: BeatrizCarvalho

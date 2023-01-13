@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a8d10c3fd651463fb62c59be4de93a29/artifacts
+end_time: 1673414406566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8d10c3fd651463fb62c59be4de93a29
+run_name: handsome-bird-373
+run_uuid: a8d10c3fd651463fb62c59be4de93a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673413505164
+status: 3
+tags: []
+user_id: BeatrizCarvalho

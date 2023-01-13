@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/250806bc16124b5eb33f43d0090f5496/artifacts
+end_time: 1673341545950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 250806bc16124b5eb33f43d0090f5496
+run_name: judicious-auk-364
+run_uuid: 250806bc16124b5eb33f43d0090f5496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673340645305
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a8a3d60bf505414b887526583365b67b/artifacts
+end_time: 1673302001945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8a3d60bf505414b887526583365b67b
+run_name: sincere-wren-897
+run_uuid: a8a3d60bf505414b887526583365b67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673301107236
+status: 3
+tags: []
+user_id: BeatrizCarvalho

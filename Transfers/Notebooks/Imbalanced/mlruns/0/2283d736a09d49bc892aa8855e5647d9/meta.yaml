@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/2283d736a09d49bc892aa8855e5647d9/artifacts
+end_time: 1673485464908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2283d736a09d49bc892aa8855e5647d9
+run_name: clean-snake-672
+run_uuid: 2283d736a09d49bc892aa8855e5647d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673484029389
+status: 3
+tags: []
+user_id: BeatrizCarvalho

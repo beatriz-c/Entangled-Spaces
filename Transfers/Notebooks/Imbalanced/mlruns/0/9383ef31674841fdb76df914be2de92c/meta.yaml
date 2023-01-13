@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/9383ef31674841fdb76df914be2de92c/artifacts
+end_time: 1673219248739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9383ef31674841fdb76df914be2de92c
+run_name: charming-shrike-51
+run_uuid: 9383ef31674841fdb76df914be2de92c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673218352561
+status: 3
+tags: []
+user_id: BeatrizCarvalho

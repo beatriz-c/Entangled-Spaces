@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ccea74e77062436ea816b1fcf641ac6b/artifacts
+end_time: 1673250057115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccea74e77062436ea816b1fcf641ac6b
+run_name: melodic-fowl-743
+run_uuid: ccea74e77062436ea816b1fcf641ac6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673248627632
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ae684d1f392a41c3922111b784196715/artifacts
+end_time: 1673300207159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae684d1f392a41c3922111b784196715
+run_name: dashing-jay-242
+run_uuid: ae684d1f392a41c3922111b784196715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673299308839
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/17253adc95574fa2b45c5a583f362716/artifacts
+end_time: 1673492646676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17253adc95574fa2b45c5a583f362716
+run_name: resilient-cow-788
+run_uuid: 17253adc95574fa2b45c5a583f362716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673491190962
+status: 3
+tags: []
+user_id: BeatrizCarvalho

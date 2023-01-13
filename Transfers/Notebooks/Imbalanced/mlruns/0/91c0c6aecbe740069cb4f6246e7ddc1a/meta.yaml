@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/91c0c6aecbe740069cb4f6246e7ddc1a/artifacts
+end_time: 1673441487145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91c0c6aecbe740069cb4f6246e7ddc1a
+run_name: rebellious-crab-623
+run_uuid: 91c0c6aecbe740069cb4f6246e7ddc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673440579977
+status: 3
+tags: []
+user_id: BeatrizCarvalho

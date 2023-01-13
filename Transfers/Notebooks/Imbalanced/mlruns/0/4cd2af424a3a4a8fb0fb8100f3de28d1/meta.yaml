@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/4cd2af424a3a4a8fb0fb8100f3de28d1/artifacts
+end_time: 1673330733450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cd2af424a3a4a8fb0fb8100f3de28d1
+run_name: learned-calf-904
+run_uuid: 4cd2af424a3a4a8fb0fb8100f3de28d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673329841788
+status: 3
+tags: []
+user_id: BeatrizCarvalho

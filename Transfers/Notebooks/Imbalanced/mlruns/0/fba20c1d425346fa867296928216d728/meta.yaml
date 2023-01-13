@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/fba20c1d425346fa867296928216d728/artifacts
+end_time: 1673459779142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fba20c1d425346fa867296928216d728
+run_name: useful-fowl-414
+run_uuid: fba20c1d425346fa867296928216d728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673458880304
+status: 3
+tags: []
+user_id: BeatrizCarvalho

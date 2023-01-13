@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ff0668bc77d646b382a33a5ae5805613/artifacts
+end_time: 1673473972520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0668bc77d646b382a33a5ae5805613
+run_name: traveling-shark-328
+run_uuid: ff0668bc77d646b382a33a5ae5805613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673471951179
+status: 3
+tags: []
+user_id: BeatrizCarvalho

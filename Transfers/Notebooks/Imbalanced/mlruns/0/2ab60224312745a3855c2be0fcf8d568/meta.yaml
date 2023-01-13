@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/2ab60224312745a3855c2be0fcf8d568/artifacts
+end_time: 1673433346347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ab60224312745a3855c2be0fcf8d568
+run_name: adaptable-squid-36
+run_uuid: 2ab60224312745a3855c2be0fcf8d568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673432440346
+status: 3
+tags: []
+user_id: BeatrizCarvalho

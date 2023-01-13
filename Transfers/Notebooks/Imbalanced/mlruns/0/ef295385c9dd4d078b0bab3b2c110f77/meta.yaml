@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ef295385c9dd4d078b0bab3b2c110f77/artifacts
+end_time: 1673451663888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef295385c9dd4d078b0bab3b2c110f77
+run_name: respected-pig-577
+run_uuid: ef295385c9dd4d078b0bab3b2c110f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673450755887
+status: 3
+tags: []
+user_id: BeatrizCarvalho

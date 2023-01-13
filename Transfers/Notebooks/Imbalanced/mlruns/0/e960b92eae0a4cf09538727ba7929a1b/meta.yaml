@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/e960b92eae0a4cf09538727ba7929a1b/artifacts
+end_time: 1673277119371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e960b92eae0a4cf09538727ba7929a1b
+run_name: clumsy-lamb-542
+run_uuid: e960b92eae0a4cf09538727ba7929a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673275693664
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/fbc1891a10d047ddb300268da2bc1b9c/artifacts
+end_time: 1673432440331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbc1891a10d047ddb300268da2bc1b9c
+run_name: caring-hound-528
+run_uuid: fbc1891a10d047ddb300268da2bc1b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673431537715
+status: 3
+tags: []
+user_id: BeatrizCarvalho

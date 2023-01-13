@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b46e5bd3c3764e6fa94bf7f40e99f7f4/artifacts
+end_time: 1673499777018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b46e5bd3c3764e6fa94bf7f40e99f7f4
+run_name: receptive-mole-112
+run_uuid: b46e5bd3c3764e6fa94bf7f40e99f7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673498345461
+status: 3
+tags: []
+user_id: BeatrizCarvalho

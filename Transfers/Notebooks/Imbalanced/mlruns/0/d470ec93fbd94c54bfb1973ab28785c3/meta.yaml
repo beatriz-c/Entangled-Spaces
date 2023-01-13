@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/d470ec93fbd94c54bfb1973ab28785c3/artifacts
+end_time: 1673409905294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d470ec93fbd94c54bfb1973ab28785c3
+run_name: fearless-skink-373
+run_uuid: d470ec93fbd94c54bfb1973ab28785c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673409006972
+status: 3
+tags: []
+user_id: BeatrizCarvalho

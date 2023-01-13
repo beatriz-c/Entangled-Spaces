@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ac223a1cf29a41d7bf94af4d71ad74c1/artifacts
+end_time: 1673339746843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac223a1cf29a41d7bf94af4d71ad74c1
+run_name: legendary-sponge-236
+run_uuid: ac223a1cf29a41d7bf94af4d71ad74c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673338842760
+status: 3
+tags: []
+user_id: BeatrizCarvalho

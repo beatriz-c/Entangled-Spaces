@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/310e042d7f374a3e8432604fad18bad8/artifacts
+end_time: 1673360451664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 310e042d7f374a3e8432604fad18bad8
+run_name: bedecked-fowl-996
+run_uuid: 310e042d7f374a3e8432604fad18bad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673359011819
+status: 3
+tags: []
+user_id: BeatrizCarvalho

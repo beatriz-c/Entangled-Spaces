@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/771793fcaa714235bf35fa5e27d5d811/artifacts
+end_time: 1673321779938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 771793fcaa714235bf35fa5e27d5d811
+run_name: clean-yak-442
+run_uuid: 771793fcaa714235bf35fa5e27d5d811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673320885876
+status: 3
+tags: []
+user_id: BeatrizCarvalho

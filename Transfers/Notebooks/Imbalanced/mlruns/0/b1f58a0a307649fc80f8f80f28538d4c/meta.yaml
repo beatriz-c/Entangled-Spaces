@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b1f58a0a307649fc80f8f80f28538d4c/artifacts
+end_time: 1673332529414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1f58a0a307649fc80f8f80f28538d4c
+run_name: nosy-vole-394
+run_uuid: b1f58a0a307649fc80f8f80f28538d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673331629716
+status: 3
+tags: []
+user_id: BeatrizCarvalho

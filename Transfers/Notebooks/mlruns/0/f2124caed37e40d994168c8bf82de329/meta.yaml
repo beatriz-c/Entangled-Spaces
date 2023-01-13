@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Entangled-Spaces/Transfers/Notebooks/mlruns/0/f2124caed37e40d994168c8bf82de329/artifacts
+end_time: 1673468767429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2124caed37e40d994168c8bf82de329
+run_name: learned-donkey-884
+run_uuid: f2124caed37e40d994168c8bf82de329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673467127896
+status: 3
+tags: []
+user_id: BeatrizCarvalho

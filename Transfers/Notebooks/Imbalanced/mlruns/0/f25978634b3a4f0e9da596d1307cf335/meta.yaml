@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f25978634b3a4f0e9da596d1307cf335/artifacts
+end_time: 1673324459228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f25978634b3a4f0e9da596d1307cf335
+run_name: sedate-worm-744
+run_uuid: f25978634b3a4f0e9da596d1307cf335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673323566137
+status: 3
+tags: []
+user_id: BeatrizCarvalho

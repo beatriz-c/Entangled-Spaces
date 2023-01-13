@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/62d3028cd3b8427a8c89edd383c0966a/artifacts
+end_time: 1673346060561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62d3028cd3b8427a8c89edd383c0966a
+run_name: overjoyed-colt-234
+run_uuid: 62d3028cd3b8427a8c89edd383c0966a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673345158660
+status: 3
+tags: []
+user_id: BeatrizCarvalho

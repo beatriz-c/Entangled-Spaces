@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/9e1dfd7541ef44578718dbcd10316cf6/artifacts
+end_time: 1673223745718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e1dfd7541ef44578718dbcd10316cf6
+run_name: classy-snipe-484
+run_uuid: 9e1dfd7541ef44578718dbcd10316cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673222847651
+status: 3
+tags: []
+user_id: BeatrizCarvalho

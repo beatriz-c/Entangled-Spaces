@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/c9e0f9c1186343b8803c5c40de288c5c/artifacts
+end_time: 1673331629700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e0f9c1186343b8803c5c40de288c5c
+run_name: sneaky-dolphin-452
+run_uuid: c9e0f9c1186343b8803c5c40de288c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673330733465
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/5329a961f43a404d8e3bd1555d070e3f/artifacts
+end_time: 1673281387897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5329a961f43a404d8e3bd1555d070e3f
+run_name: welcoming-rat-499
+run_uuid: 5329a961f43a404d8e3bd1555d070e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673279969329
+status: 3
+tags: []
+user_id: BeatrizCarvalho

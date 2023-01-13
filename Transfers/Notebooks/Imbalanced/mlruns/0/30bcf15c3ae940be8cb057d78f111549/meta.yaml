@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/30bcf15c3ae940be8cb057d78f111549/artifacts
+end_time: 1673319089025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30bcf15c3ae940be8cb057d78f111549
+run_name: blushing-robin-620
+run_uuid: 30bcf15c3ae940be8cb057d78f111549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673318190298
+status: 3
+tags: []
+user_id: BeatrizCarvalho

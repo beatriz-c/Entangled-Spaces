@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f21a82cc01bf420a8fd116b17aac65c5/artifacts
+end_time: 1673336147170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f21a82cc01bf420a8fd116b17aac65c5
+run_name: indecisive-elk-593
+run_uuid: f21a82cc01bf420a8fd116b17aac65c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673335233494
+status: 3
+tags: []
+user_id: BeatrizCarvalho

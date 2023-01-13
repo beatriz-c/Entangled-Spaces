@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ed6e1dcc821f444b8c6f84b7fbcb4c1c/artifacts
+end_time: 1673298407474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed6e1dcc821f444b8c6f84b7fbcb4c1c
+run_name: bustling-moose-82
+run_uuid: ed6e1dcc821f444b8c6f84b7fbcb4c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673297506531
+status: 3
+tags: []
+user_id: BeatrizCarvalho

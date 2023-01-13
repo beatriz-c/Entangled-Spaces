@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/83fa39b1c64948fd818bbdb3ef41cbe7/artifacts
+end_time: 1673251481452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83fa39b1c64948fd818bbdb3ef41cbe7
+run_name: righteous-finch-216
+run_uuid: 83fa39b1c64948fd818bbdb3ef41cbe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673250057131
+status: 3
+tags: []
+user_id: BeatrizCarvalho

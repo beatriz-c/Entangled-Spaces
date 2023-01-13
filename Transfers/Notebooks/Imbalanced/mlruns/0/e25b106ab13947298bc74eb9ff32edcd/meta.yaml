@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/e25b106ab13947298bc74eb9ff32edcd/artifacts
+end_time: 1673213909573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e25b106ab13947298bc74eb9ff32edcd
+run_name: placid-snail-357
+run_uuid: e25b106ab13947298bc74eb9ff32edcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673212585592
+status: 3
+tags: []
+user_id: BeatrizCarvalho

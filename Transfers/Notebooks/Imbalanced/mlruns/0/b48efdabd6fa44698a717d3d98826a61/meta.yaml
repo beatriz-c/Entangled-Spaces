@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b48efdabd6fa44698a717d3d98826a61/artifacts
+end_time: 1673318190283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b48efdabd6fa44698a717d3d98826a61
+run_name: legendary-stag-607
+run_uuid: b48efdabd6fa44698a717d3d98826a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673317293791
+status: 3
+tags: []
+user_id: BeatrizCarvalho

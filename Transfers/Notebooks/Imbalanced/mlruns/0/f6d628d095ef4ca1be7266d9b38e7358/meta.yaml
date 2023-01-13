@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f6d628d095ef4ca1be7266d9b38e7358/artifacts
+end_time: 1673489752232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d628d095ef4ca1be7266d9b38e7358
+run_name: luxuriant-asp-81
+run_uuid: f6d628d095ef4ca1be7266d9b38e7358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673488324662
+status: 3
+tags: []
+user_id: BeatrizCarvalho

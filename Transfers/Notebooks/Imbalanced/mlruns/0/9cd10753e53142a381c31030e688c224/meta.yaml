@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/9cd10753e53142a381c31030e688c224/artifacts
+end_time: 1673398567007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd10753e53142a381c31030e688c224
+run_name: rumbling-perch-668
+run_uuid: 9cd10753e53142a381c31030e688c224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673397125046
+status: 3
+tags: []
+user_id: BeatrizCarvalho

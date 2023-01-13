@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/8e5223115cc547d4a5e134fb117d4fb7/artifacts
+end_time: 1673315495633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e5223115cc547d4a5e134fb117d4fb7
+run_name: mercurial-perch-907
+run_uuid: 8e5223115cc547d4a5e134fb117d4fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673314598829
+status: 3
+tags: []
+user_id: BeatrizCarvalho

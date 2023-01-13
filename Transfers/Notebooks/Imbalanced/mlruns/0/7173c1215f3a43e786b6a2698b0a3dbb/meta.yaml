@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/7173c1215f3a43e786b6a2698b0a3dbb/artifacts
+end_time: 1673257179111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7173c1215f3a43e786b6a2698b0a3dbb
+run_name: tasteful-crow-961
+run_uuid: 7173c1215f3a43e786b6a2698b0a3dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673255752757
+status: 3
+tags: []
+user_id: BeatrizCarvalho

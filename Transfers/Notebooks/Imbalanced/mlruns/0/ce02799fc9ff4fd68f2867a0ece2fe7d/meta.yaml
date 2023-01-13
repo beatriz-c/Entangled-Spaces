@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ce02799fc9ff4fd68f2867a0ece2fe7d/artifacts
+end_time: 1673421607835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce02799fc9ff4fd68f2867a0ece2fe7d
+run_name: placid-elk-834
+run_uuid: ce02799fc9ff4fd68f2867a0ece2fe7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673420709653
+status: 3
+tags: []
+user_id: BeatrizCarvalho

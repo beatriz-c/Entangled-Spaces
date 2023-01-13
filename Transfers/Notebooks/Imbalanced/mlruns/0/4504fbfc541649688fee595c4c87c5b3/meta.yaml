@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/4504fbfc541649688fee595c4c87c5b3/artifacts
+end_time: 1673446924816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4504fbfc541649688fee595c4c87c5b3
+run_name: indecisive-gull-949
+run_uuid: 4504fbfc541649688fee595c4c87c5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673446017659
+status: 3
+tags: []
+user_id: BeatrizCarvalho

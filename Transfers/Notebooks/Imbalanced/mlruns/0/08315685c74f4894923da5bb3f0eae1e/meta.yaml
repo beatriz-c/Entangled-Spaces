@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/08315685c74f4894923da5bb3f0eae1e/artifacts
+end_time: 1673302900968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08315685c74f4894923da5bb3f0eae1e
+run_name: incongruous-kite-35
+run_uuid: 08315685c74f4894923da5bb3f0eae1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673302001960
+status: 3
+tags: []
+user_id: BeatrizCarvalho

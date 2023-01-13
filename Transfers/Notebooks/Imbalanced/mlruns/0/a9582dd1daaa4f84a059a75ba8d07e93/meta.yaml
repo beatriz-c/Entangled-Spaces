@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a9582dd1daaa4f84a059a75ba8d07e93/artifacts
+end_time: 1673401442024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9582dd1daaa4f84a059a75ba8d07e93
+run_name: resilient-skunk-769
+run_uuid: a9582dd1daaa4f84a059a75ba8d07e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673400003385
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f8a3e7ad262b4ad5aeea79322dcc134a/artifacts
+end_time: 1673288539924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a3e7ad262b4ad5aeea79322dcc134a
+run_name: popular-bird-246
+run_uuid: f8a3e7ad262b4ad5aeea79322dcc134a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673287102161
+status: 3
+tags: []
+user_id: BeatrizCarvalho

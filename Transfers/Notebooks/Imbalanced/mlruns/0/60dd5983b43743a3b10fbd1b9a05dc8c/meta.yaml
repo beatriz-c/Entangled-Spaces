@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/60dd5983b43743a3b10fbd1b9a05dc8c/artifacts
+end_time: 1673494076147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60dd5983b43743a3b10fbd1b9a05dc8c
+run_name: agreeable-foal-941
+run_uuid: 60dd5983b43743a3b10fbd1b9a05dc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673492646676
+status: 3
+tags: []
+user_id: BeatrizCarvalho

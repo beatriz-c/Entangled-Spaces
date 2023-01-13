@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/672215d857c847c3be82d736f363509e/artifacts
+end_time: 1673304699188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 672215d857c847c3be82d736f363509e
+run_name: casual-shrike-341
+run_uuid: 672215d857c847c3be82d736f363509e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673303801164
+status: 3
+tags: []
+user_id: BeatrizCarvalho

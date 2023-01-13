@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f61c41e322d542aaa8fe13b069e24948/artifacts
+end_time: 1673306495206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f61c41e322d542aaa8fe13b069e24948
+run_name: exultant-conch-65
+run_uuid: f61c41e322d542aaa8fe13b069e24948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673305597626
+status: 3
+tags: []
+user_id: BeatrizCarvalho

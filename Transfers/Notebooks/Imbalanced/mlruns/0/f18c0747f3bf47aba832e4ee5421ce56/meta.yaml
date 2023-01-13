@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f18c0747f3bf47aba832e4ee5421ce56/artifacts
+end_time: 1673413505149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18c0747f3bf47aba832e4ee5421ce56
+run_name: gaudy-fly-409
+run_uuid: f18c0747f3bf47aba832e4ee5421ce56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673412605493
+status: 3
+tags: []
+user_id: BeatrizCarvalho

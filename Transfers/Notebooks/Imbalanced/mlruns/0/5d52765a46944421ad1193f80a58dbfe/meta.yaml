@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/5d52765a46944421ad1193f80a58dbfe/artifacts
+end_time: 1673284245742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d52765a46944421ad1193f80a58dbfe
+run_name: awesome-rook-692
+run_uuid: 5d52765a46944421ad1193f80a58dbfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673282815640
+status: 3
+tags: []
+user_id: BeatrizCarvalho

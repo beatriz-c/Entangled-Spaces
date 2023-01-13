@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f1a766eb86024e36a4e1e0db91dc90ed/artifacts
+end_time: 1673293929308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a766eb86024e36a4e1e0db91dc90ed
+run_name: magnificent-kite-566
+run_uuid: f1a766eb86024e36a4e1e0db91dc90ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673293030258
+status: 3
+tags: []
+user_id: BeatrizCarvalho

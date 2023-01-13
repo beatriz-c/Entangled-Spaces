@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/ba5ac76993314c8cb13cf39c003e425c/artifacts
+end_time: 1673309207304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba5ac76993314c8cb13cf39c003e425c
+run_name: bustling-conch-990
+run_uuid: ba5ac76993314c8cb13cf39c003e425c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673308300780
+status: 3
+tags: []
+user_id: BeatrizCarvalho

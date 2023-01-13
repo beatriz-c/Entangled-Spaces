@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/fe704fd343c845aeb8f51ed565fe7ed1/artifacts
+end_time: 1673322673913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe704fd343c845aeb8f51ed565fe7ed1
+run_name: abrasive-cow-173
+run_uuid: fe704fd343c845aeb8f51ed565fe7ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673321779954
+status: 3
+tags: []
+user_id: BeatrizCarvalho

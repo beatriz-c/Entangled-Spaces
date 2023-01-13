@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/dc751f7b50b94d93befb810d740b8964/artifacts
+end_time: 1673428828508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc751f7b50b94d93befb810d740b8964
+run_name: bedecked-shad-289
+run_uuid: dc751f7b50b94d93befb810d740b8964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673427924090
+status: 3
+tags: []
+user_id: BeatrizCarvalho

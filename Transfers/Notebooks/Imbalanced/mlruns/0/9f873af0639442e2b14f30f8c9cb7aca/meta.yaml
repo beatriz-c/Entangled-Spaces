@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/9f873af0639442e2b14f30f8c9cb7aca/artifacts
+end_time: 1673452569193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f873af0639442e2b14f30f8c9cb7aca
+run_name: peaceful-dove-831
+run_uuid: 9f873af0639442e2b14f30f8c9cb7aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673451663904
+status: 3
+tags: []
+user_id: BeatrizCarvalho

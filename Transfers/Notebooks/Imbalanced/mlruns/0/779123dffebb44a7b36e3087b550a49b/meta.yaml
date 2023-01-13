@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/779123dffebb44a7b36e3087b550a49b/artifacts
+end_time: 1673293030243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 779123dffebb44a7b36e3087b550a49b
+run_name: zealous-mole-167
+run_uuid: 779123dffebb44a7b36e3087b550a49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673292130120
+status: 3
+tags: []
+user_id: BeatrizCarvalho

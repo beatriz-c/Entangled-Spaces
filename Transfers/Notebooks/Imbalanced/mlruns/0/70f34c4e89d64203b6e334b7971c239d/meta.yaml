@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/70f34c4e89d64203b6e334b7971c239d/artifacts
+end_time: 1673297506516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f34c4e89d64203b6e334b7971c239d
+run_name: bittersweet-swan-380
+run_uuid: 70f34c4e89d64203b6e334b7971c239d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673296613058
+status: 3
+tags: []
+user_id: BeatrizCarvalho

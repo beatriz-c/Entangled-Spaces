@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/f8ff3d4b8f814d78b83e2f18e7979d85/artifacts
+end_time: 1673211203274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8ff3d4b8f814d78b83e2f18e7979d85
+run_name: blushing-pig-620
+run_uuid: f8ff3d4b8f814d78b83e2f18e7979d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673210303193
+status: 3
+tags: []
+user_id: BeatrizCarvalho

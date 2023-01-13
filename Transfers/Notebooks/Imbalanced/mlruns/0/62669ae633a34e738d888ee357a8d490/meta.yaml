@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/62669ae633a34e738d888ee357a8d490/artifacts
+end_time: 1673242908655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62669ae633a34e738d888ee357a8d490
+run_name: skittish-carp-202
+run_uuid: 62669ae633a34e738d888ee357a8d490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673241486894
+status: 3
+tags: []
+user_id: BeatrizCarvalho

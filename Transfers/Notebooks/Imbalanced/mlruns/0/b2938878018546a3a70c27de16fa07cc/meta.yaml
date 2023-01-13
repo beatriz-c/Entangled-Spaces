@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b2938878018546a3a70c27de16fa07cc/artifacts
+end_time: 1673317293775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2938878018546a3a70c27de16fa07cc
+run_name: skillful-bass-59
+run_uuid: b2938878018546a3a70c27de16fa07cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673316394125
+status: 3
+tags: []
+user_id: BeatrizCarvalho

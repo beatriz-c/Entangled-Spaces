@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b7771242cae646358535ab94368be2ea/artifacts
+end_time: 1673367636969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7771242cae646358535ab94368be2ea
+run_name: selective-swan-563
+run_uuid: b7771242cae646358535ab94368be2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673366204330
+status: 3
+tags: []
+user_id: BeatrizCarvalho
