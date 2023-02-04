@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/d142b583703d4328ac8787537827a72e/artifacts
+end_time: 1674101480070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d142b583703d4328ac8787537827a72e
+run_name: indecisive-toad-556
+run_uuid: d142b583703d4328ac8787537827a72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674097655057
+status: 3
+tags: []
+user_id: BeatrizCarvalho

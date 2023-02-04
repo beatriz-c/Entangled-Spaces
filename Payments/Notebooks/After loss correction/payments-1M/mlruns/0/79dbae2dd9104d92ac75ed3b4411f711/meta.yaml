@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/79dbae2dd9104d92ac75ed3b4411f711/artifacts
+end_time: 1674043571712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79dbae2dd9104d92ac75ed3b4411f711
+run_name: aged-hawk-281
+run_uuid: 79dbae2dd9104d92ac75ed3b4411f711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674039488118
+status: 3
+tags: []
+user_id: BeatrizCarvalho

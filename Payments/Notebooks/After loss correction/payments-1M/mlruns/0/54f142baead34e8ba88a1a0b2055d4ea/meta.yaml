@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/54f142baead34e8ba88a1a0b2055d4ea/artifacts
+end_time: 1674112971032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54f142baead34e8ba88a1a0b2055d4ea
+run_name: magnificent-sloth-70
+run_uuid: 54f142baead34e8ba88a1a0b2055d4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674110038682
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/da4d3bb3c64741da9e7c1e93eb8a3550/artifacts
+end_time: 1673950677528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da4d3bb3c64741da9e7c1e93eb8a3550
+run_name: treasured-chimp-931
+run_uuid: da4d3bb3c64741da9e7c1e93eb8a3550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673946272187
+status: 3
+tags: []
+user_id: BeatrizCarvalho

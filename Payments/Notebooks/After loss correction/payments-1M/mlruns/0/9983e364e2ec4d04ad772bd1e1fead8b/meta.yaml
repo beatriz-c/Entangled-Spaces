@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/9983e364e2ec4d04ad772bd1e1fead8b/artifacts
+end_time: 1673972385378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9983e364e2ec4d04ad772bd1e1fead8b
+run_name: secretive-sloth-480
+run_uuid: 9983e364e2ec4d04ad772bd1e1fead8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673965195761
+status: 3
+tags: []
+user_id: BeatrizCarvalho

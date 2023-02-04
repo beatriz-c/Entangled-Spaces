@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/e2fec1d2f3c54071ba35721d0551498b/artifacts
+end_time: 1673982001607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2fec1d2f3c54071ba35721d0551498b
+run_name: resilient-finch-189
+run_uuid: e2fec1d2f3c54071ba35721d0551498b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978038200
+status: 3
+tags: []
+user_id: BeatrizCarvalho

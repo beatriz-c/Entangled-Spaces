@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/c01771b89a6a40b1b0453227f6b2132d/artifacts
+end_time: 1674057452460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01771b89a6a40b1b0453227f6b2132d
+run_name: glamorous-crow-422
+run_uuid: c01771b89a6a40b1b0453227f6b2132d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053386247
+status: 3
+tags: []
+user_id: BeatrizCarvalho

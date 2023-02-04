@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/5b4530418f9b4fbeadfc542e150a3e85/artifacts
+end_time: 1674085535813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b4530418f9b4fbeadfc542e150a3e85
+run_name: skittish-midge-486
+run_uuid: 5b4530418f9b4fbeadfc542e150a3e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080367929
+status: 3
+tags: []
+user_id: BeatrizCarvalho

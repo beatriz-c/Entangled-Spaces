@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/49ee8be5991746eb90594f62e20a9059/artifacts
+end_time: 1673934139596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49ee8be5991746eb90594f62e20a9059
+run_name: carefree-stoat-224
+run_uuid: 49ee8be5991746eb90594f62e20a9059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673930382903
+status: 3
+tags: []
+user_id: BeatrizCarvalho

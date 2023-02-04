@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/1f1559155d5049219c8fd6c3aa2cc186/artifacts
+end_time: 1673641442209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f1559155d5049219c8fd6c3aa2cc186
+run_name: colorful-bass-326
+run_uuid: 1f1559155d5049219c8fd6c3aa2cc186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673641100122
+status: 3
+tags: []
+user_id: BeatrizCarvalho

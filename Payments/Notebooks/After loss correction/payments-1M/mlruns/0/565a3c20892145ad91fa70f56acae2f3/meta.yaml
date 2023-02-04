@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/565a3c20892145ad91fa70f56acae2f3/artifacts
+end_time: 1674007672035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565a3c20892145ad91fa70f56acae2f3
+run_name: sophisticated-ox-724
+run_uuid: 565a3c20892145ad91fa70f56acae2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674001332626
+status: 3
+tags: []
+user_id: BeatrizCarvalho

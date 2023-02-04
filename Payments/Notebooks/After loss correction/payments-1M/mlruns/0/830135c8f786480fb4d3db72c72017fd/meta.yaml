@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/830135c8f786480fb4d3db72c72017fd/artifacts
+end_time: 1673941115289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 830135c8f786480fb4d3db72c72017fd
+run_name: delightful-croc-656
+run_uuid: 830135c8f786480fb4d3db72c72017fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673937349899
+status: 3
+tags: []
+user_id: BeatrizCarvalho

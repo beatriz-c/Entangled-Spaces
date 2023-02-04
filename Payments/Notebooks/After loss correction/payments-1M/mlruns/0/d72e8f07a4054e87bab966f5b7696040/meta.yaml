@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/d72e8f07a4054e87bab966f5b7696040/artifacts
+end_time: 1674018758531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72e8f07a4054e87bab966f5b7696040
+run_name: suave-duck-499
+run_uuid: d72e8f07a4054e87bab966f5b7696040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674015384697
+status: 3
+tags: []
+user_id: BeatrizCarvalho

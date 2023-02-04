@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/3db438dcef7c4c4c9b9bb27e34705774/artifacts
+end_time: 1674022620640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db438dcef7c4c4c9b9bb27e34705774
+run_name: peaceful-hog-753
+run_uuid: 3db438dcef7c4c4c9b9bb27e34705774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674018758546
+status: 3
+tags: []
+user_id: BeatrizCarvalho

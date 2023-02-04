@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/a5512c550a7148cfbc80d35763169538/artifacts
+end_time: 1674034597487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5512c550a7148cfbc80d35763169538
+run_name: kindly-fly-196
+run_uuid: a5512c550a7148cfbc80d35763169538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674029734686
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/54c4af2c899042e7b0bd11b396d38865/artifacts
+end_time: 1673956359001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54c4af2c899042e7b0bd11b396d38865
+run_name: bemused-turtle-67
+run_uuid: 54c4af2c899042e7b0bd11b396d38865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673950677544
+status: 3
+tags: []
+user_id: BeatrizCarvalho

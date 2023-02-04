@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/1d93fb8fe1f74e3d99f5a9be7eb9ebef/artifacts
+end_time: 1674117279704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d93fb8fe1f74e3d99f5a9be7eb9ebef
+run_name: bald-dove-688
+run_uuid: 1d93fb8fe1f74e3d99f5a9be7eb9ebef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674112971032
+status: 3
+tags: []
+user_id: BeatrizCarvalho

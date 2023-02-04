@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/4b63a73ff2a646d1b4ccb8cd46b36bc1/artifacts
+end_time: 1674097655026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b63a73ff2a646d1b4ccb8cd46b36bc1
+run_name: victorious-jay-568
+run_uuid: 4b63a73ff2a646d1b4ccb8cd46b36bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090617502
+status: 3
+tags: []
+user_id: BeatrizCarvalho

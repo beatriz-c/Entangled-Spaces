@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/452b9fbb880745788607d5f08d669ca2/artifacts
+end_time: 1673904060125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 452b9fbb880745788607d5f08d669ca2
+run_name: masked-horse-57
+run_uuid: 452b9fbb880745788607d5f08d669ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673901460892
+status: 3
+tags: []
+user_id: BeatrizCarvalho

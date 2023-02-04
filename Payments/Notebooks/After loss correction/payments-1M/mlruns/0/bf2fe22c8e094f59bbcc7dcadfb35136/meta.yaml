@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/bf2fe22c8e094f59bbcc7dcadfb35136/artifacts
+end_time: 1674090617502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf2fe22c8e094f59bbcc7dcadfb35136
+run_name: hilarious-wasp-157
+run_uuid: bf2fe22c8e094f59bbcc7dcadfb35136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674085535829
+status: 3
+tags: []
+user_id: BeatrizCarvalho

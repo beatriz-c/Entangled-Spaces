@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/eaf862db24ea478bad26f43ea5044845/artifacts
+end_time: 1674049297575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf862db24ea478bad26f43ea5044845
+run_name: mercurial-midge-552
+run_uuid: eaf862db24ea478bad26f43ea5044845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674043571743
+status: 3
+tags: []
+user_id: BeatrizCarvalho

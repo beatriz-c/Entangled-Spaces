@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/a174c4d220b64130acad0f7d56e816a8/artifacts
+end_time: 1673901460848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a174c4d220b64130acad0f7d56e816a8
+run_name: thoughtful-cod-603
+run_uuid: a174c4d220b64130acad0f7d56e816a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673897127548
+status: 3
+tags: []
+user_id: BeatrizCarvalho

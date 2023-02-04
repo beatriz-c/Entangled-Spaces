@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/addec4dffd664d4fbd9d51e485a3bce7/artifacts
+end_time: 1673937349883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: addec4dffd664d4fbd9d51e485a3bce7
+run_name: nimble-crab-60
+run_uuid: addec4dffd664d4fbd9d51e485a3bce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673934139596
+status: 3
+tags: []
+user_id: BeatrizCarvalho

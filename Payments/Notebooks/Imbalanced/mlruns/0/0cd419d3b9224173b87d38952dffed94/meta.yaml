@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/0cd419d3b9224173b87d38952dffed94/artifacts
+end_time: 1673641784816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd419d3b9224173b87d38952dffed94
+run_name: serious-mole-568
+run_uuid: 0cd419d3b9224173b87d38952dffed94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673641442225
+status: 3
+tags: []
+user_id: BeatrizCarvalho

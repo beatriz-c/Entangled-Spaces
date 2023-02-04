@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/05807888c70d451cbda9ebb85a970ef0/artifacts
+end_time: 1674011965276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05807888c70d451cbda9ebb85a970ef0
+run_name: suave-bear-643
+run_uuid: 05807888c70d451cbda9ebb85a970ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674007672051
+status: 3
+tags: []
+user_id: BeatrizCarvalho

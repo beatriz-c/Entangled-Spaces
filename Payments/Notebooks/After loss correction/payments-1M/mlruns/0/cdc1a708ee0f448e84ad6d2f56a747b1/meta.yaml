@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/cdc1a708ee0f448e84ad6d2f56a747b1/artifacts
+end_time: 1673923388719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdc1a708ee0f448e84ad6d2f56a747b1
+run_name: chill-gnat-998
+run_uuid: cdc1a708ee0f448e84ad6d2f56a747b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673919247760
+status: 3
+tags: []
+user_id: BeatrizCarvalho

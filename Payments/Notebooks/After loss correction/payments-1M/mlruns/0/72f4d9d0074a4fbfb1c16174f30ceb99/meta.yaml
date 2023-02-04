@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/72f4d9d0074a4fbfb1c16174f30ceb99/artifacts
+end_time: 1674074504766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f4d9d0074a4fbfb1c16174f30ceb99
+run_name: dapper-worm-491
+run_uuid: 72f4d9d0074a4fbfb1c16174f30ceb99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069567909
+status: 3
+tags: []
+user_id: BeatrizCarvalho

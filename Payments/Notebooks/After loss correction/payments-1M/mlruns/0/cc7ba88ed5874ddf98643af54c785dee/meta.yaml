@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/cc7ba88ed5874ddf98643af54c785dee/artifacts
+end_time: 1673930382887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7ba88ed5874ddf98643af54c785dee
+run_name: whimsical-grouse-689
+run_uuid: cc7ba88ed5874ddf98643af54c785dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673926371301
+status: 3
+tags: []
+user_id: BeatrizCarvalho

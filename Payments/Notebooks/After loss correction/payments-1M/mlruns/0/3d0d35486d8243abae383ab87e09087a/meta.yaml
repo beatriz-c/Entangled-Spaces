@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/3d0d35486d8243abae383ab87e09087a/artifacts
+end_time: 1674105720725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d0d35486d8243abae383ab87e09087a
+run_name: languid-hound-944
+run_uuid: 3d0d35486d8243abae383ab87e09087a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674101480085
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/f97b5126ea714fb8b223214970dfcd87/artifacts
+end_time: 1673912424443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f97b5126ea714fb8b223214970dfcd87
+run_name: bittersweet-yak-92
+run_uuid: f97b5126ea714fb8b223214970dfcd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673907799804
+status: 3
+tags: []
+user_id: BeatrizCarvalho

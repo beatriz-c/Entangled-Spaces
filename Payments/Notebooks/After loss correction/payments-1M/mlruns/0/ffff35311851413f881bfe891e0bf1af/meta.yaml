@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/ffff35311851413f881bfe891e0bf1af/artifacts
+end_time: 1673915827382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffff35311851413f881bfe891e0bf1af
+run_name: beautiful-gnat-678
+run_uuid: ffff35311851413f881bfe891e0bf1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673912424474
+status: 3
+tags: []
+user_id: BeatrizCarvalho

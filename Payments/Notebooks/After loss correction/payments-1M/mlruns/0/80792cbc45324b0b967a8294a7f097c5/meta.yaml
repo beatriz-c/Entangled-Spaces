@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/80792cbc45324b0b967a8294a7f097c5/artifacts
+end_time: 1673907799789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80792cbc45324b0b967a8294a7f097c5
+run_name: unequaled-mule-599
+run_uuid: 80792cbc45324b0b967a8294a7f097c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673904060141
+status: 3
+tags: []
+user_id: BeatrizCarvalho

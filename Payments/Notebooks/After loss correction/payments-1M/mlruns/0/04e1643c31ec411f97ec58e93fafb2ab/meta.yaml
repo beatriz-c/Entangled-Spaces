@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/04e1643c31ec411f97ec58e93fafb2ab/artifacts
+end_time: 1673997257404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04e1643c31ec411f97ec58e93fafb2ab
+run_name: beautiful-croc-708
+run_uuid: 04e1643c31ec411f97ec58e93fafb2ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990148580
+status: 3
+tags: []
+user_id: BeatrizCarvalho

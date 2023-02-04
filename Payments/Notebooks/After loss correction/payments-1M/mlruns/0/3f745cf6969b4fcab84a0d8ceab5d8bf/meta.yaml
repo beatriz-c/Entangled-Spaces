@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/3f745cf6969b4fcab84a0d8ceab5d8bf/artifacts
+end_time: 1673978038184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f745cf6969b4fcab84a0d8ceab5d8bf
+run_name: gregarious-mole-37
+run_uuid: 3f745cf6969b4fcab84a0d8ceab5d8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673972385410
+status: 3
+tags: []
+user_id: BeatrizCarvalho
