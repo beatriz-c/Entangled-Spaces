@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/c9580dfd4dc4401294149af54c1df59e/artifacts
+end_time: 1673896070846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9580dfd4dc4401294149af54c1df59e
+run_name: learned-trout-888
+run_uuid: c9580dfd4dc4401294149af54c1df59e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896065637
+status: 3
+tags: []
+user_id: BeatrizCarvalho

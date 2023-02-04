@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/cdadc74310124f90bb5f9acaa5b54b3f/artifacts
+end_time: 1673896170729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdadc74310124f90bb5f9acaa5b54b3f
+run_name: blushing-shad-739
+run_uuid: cdadc74310124f90bb5f9acaa5b54b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896164816
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/c90cb54b47ff4de3a65a7776b1228e5b/artifacts
+end_time: 1673896088194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90cb54b47ff4de3a65a7776b1228e5b
+run_name: bold-midge-169
+run_uuid: c90cb54b47ff4de3a65a7776b1228e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896083441
+status: 3
+tags: []
+user_id: BeatrizCarvalho
