@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/4ad44379db0947a0a6989e8656f90a2a/artifacts
+end_time: 1673896053542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ad44379db0947a0a6989e8656f90a2a
+run_name: salty-gnu-909
+run_uuid: 4ad44379db0947a0a6989e8656f90a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896048209
+status: 3
+tags: []
+user_id: BeatrizCarvalho

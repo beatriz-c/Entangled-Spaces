@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/28bafee2071c4d43aeefcaec03ca6ef6/artifacts
+end_time: 1673896144892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28bafee2071c4d43aeefcaec03ca6ef6
+run_name: trusting-rat-550
+run_uuid: 28bafee2071c4d43aeefcaec03ca6ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896137332
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/80e6428b883d4cf6a2a7a8fc446c3de4/artifacts
+end_time: 1673896094287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e6428b883d4cf6a2a7a8fc446c3de4
+run_name: sneaky-smelt-20
+run_uuid: 80e6428b883d4cf6a2a7a8fc446c3de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896088226
+status: 3
+tags: []
+user_id: BeatrizCarvalho

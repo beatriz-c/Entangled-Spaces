@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/29c71a5f802642e988af5f7e94a9d924/artifacts
+end_time: 1673896149543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29c71a5f802642e988af5f7e94a9d924
+run_name: casual-trout-41
+run_uuid: 29c71a5f802642e988af5f7e94a9d924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896144908
+status: 3
+tags: []
+user_id: BeatrizCarvalho

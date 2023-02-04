@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/9f0b9eef63cd4564923314237b35d351/artifacts
+end_time: 1673896204904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f0b9eef63cd4564923314237b35d351
+run_name: adaptable-squid-692
+run_uuid: 9f0b9eef63cd4564923314237b35d351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896199087
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/8108e49fff4a40f08165bff9afd0a42a/artifacts
+end_time: 1673896033452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8108e49fff4a40f08165bff9afd0a42a
+run_name: stately-fawn-107
+run_uuid: 8108e49fff4a40f08165bff9afd0a42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896027371
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/6c55e896c0404fe488ce4ff60bdb2d51/artifacts
+end_time: 1673896283541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c55e896c0404fe488ce4ff60bdb2d51
+run_name: rumbling-rat-136
+run_uuid: 6c55e896c0404fe488ce4ff60bdb2d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896275840
+status: 3
+tags: []
+user_id: BeatrizCarvalho

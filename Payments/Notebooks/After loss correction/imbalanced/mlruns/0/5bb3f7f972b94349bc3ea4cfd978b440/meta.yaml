@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/5bb3f7f972b94349bc3ea4cfd978b440/artifacts
+end_time: 1673896083425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bb3f7f972b94349bc3ea4cfd978b440
+run_name: dazzling-bear-851
+run_uuid: 5bb3f7f972b94349bc3ea4cfd978b440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896076903
+status: 3
+tags: []
+user_id: BeatrizCarvalho

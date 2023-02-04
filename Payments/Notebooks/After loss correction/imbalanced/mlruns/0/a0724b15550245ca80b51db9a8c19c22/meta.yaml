@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/a0724b15550245ca80b51db9a8c19c22/artifacts
+end_time: 1673896065621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0724b15550245ca80b51db9a8c19c22
+run_name: lyrical-bat-462
+run_uuid: a0724b15550245ca80b51db9a8c19c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896059550
+status: 3
+tags: []
+user_id: BeatrizCarvalho

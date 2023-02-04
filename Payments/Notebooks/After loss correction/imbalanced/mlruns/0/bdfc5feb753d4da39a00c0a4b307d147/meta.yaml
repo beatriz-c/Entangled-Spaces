@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/bdfc5feb753d4da39a00c0a4b307d147/artifacts
+end_time: 1673896120061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdfc5feb753d4da39a00c0a4b307d147
+run_name: painted-loon-23
+run_uuid: bdfc5feb753d4da39a00c0a4b307d147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896115330
+status: 3
+tags: []
+user_id: BeatrizCarvalho

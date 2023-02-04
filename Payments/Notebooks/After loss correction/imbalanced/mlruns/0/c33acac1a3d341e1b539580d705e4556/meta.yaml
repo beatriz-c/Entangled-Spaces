@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/c33acac1a3d341e1b539580d705e4556/artifacts
+end_time: 1673896115315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c33acac1a3d341e1b539580d705e4556
+run_name: resilient-ram-605
+run_uuid: c33acac1a3d341e1b539580d705e4556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896109064
+status: 3
+tags: []
+user_id: BeatrizCarvalho

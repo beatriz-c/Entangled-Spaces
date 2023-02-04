@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/5aab288c6863478a8b687007d2c328b2/artifacts
+end_time: 1673896128739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5aab288c6863478a8b687007d2c328b2
+run_name: charming-gnat-253
+run_uuid: 5aab288c6863478a8b687007d2c328b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896123230
+status: 3
+tags: []
+user_id: BeatrizCarvalho

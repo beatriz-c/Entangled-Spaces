@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/08431f0ca17b4191982c4a5f5586d9d5/artifacts
+end_time: 1673896269815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08431f0ca17b4191982c4a5f5586d9d5
+run_name: kindly-swan-618
+run_uuid: 08431f0ca17b4191982c4a5f5586d9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896262621
+status: 3
+tags: []
+user_id: BeatrizCarvalho

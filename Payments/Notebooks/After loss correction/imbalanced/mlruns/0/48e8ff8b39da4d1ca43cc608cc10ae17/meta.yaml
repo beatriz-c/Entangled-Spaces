@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/48e8ff8b39da4d1ca43cc608cc10ae17/artifacts
+end_time: 1673896137317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48e8ff8b39da4d1ca43cc608cc10ae17
+run_name: hilarious-pig-606
+run_uuid: 48e8ff8b39da4d1ca43cc608cc10ae17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896133497
+status: 3
+tags: []
+user_id: BeatrizCarvalho

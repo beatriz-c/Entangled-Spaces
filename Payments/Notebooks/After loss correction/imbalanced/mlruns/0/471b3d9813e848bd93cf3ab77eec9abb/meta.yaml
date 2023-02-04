@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/payments-imbalanced/mlruns/0/471b3d9813e848bd93cf3ab77eec9abb/artifacts
+end_time: 1673896255435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 471b3d9813e848bd93cf3ab77eec9abb
+run_name: capable-foal-949
+run_uuid: 471b3d9813e848bd93cf3ab77eec9abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673896249424
+status: 3
+tags: []
+user_id: BeatrizCarvalho
