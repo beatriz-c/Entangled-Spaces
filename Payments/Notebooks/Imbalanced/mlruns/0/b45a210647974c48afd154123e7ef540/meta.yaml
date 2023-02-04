@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/b45a210647974c48afd154123e7ef540/artifacts
+end_time: 1673648736116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45a210647974c48afd154123e7ef540
+run_name: wise-fly-71
+run_uuid: b45a210647974c48afd154123e7ef540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673648424972
+status: 3
+tags: []
+user_id: BeatrizCarvalho

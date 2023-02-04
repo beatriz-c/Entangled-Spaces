@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/9bacdf6d58f54ade857f9f5c5b61e081/artifacts
+end_time: 1673640104650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bacdf6d58f54ade857f9f5c5b61e081
+run_name: unruly-goat-351
+run_uuid: 9bacdf6d58f54ade857f9f5c5b61e081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673639828311
+status: 3
+tags: []
+user_id: BeatrizCarvalho

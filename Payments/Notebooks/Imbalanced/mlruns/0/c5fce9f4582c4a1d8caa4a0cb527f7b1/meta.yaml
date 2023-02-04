@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/c5fce9f4582c4a1d8caa4a0cb527f7b1/artifacts
+end_time: 1673643129223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5fce9f4582c4a1d8caa4a0cb527f7b1
+run_name: skillful-bear-660
+run_uuid: c5fce9f4582c4a1d8caa4a0cb527f7b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673642832138
+status: 3
+tags: []
+user_id: BeatrizCarvalho

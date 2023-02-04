@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/7fc9ac80466d43779e19750ce15fb040/artifacts
+end_time: 1673641100104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fc9ac80466d43779e19750ce15fb040
+run_name: nervous-lamb-115
+run_uuid: 7fc9ac80466d43779e19750ce15fb040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673640757848
+status: 3
+tags: []
+user_id: BeatrizCarvalho

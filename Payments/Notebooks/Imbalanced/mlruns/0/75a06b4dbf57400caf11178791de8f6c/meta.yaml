@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/75a06b4dbf57400caf11178791de8f6c/artifacts
+end_time: 1673642832126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75a06b4dbf57400caf11178791de8f6c
+run_name: spiffy-shrike-650
+run_uuid: 75a06b4dbf57400caf11178791de8f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673642479213
+status: 3
+tags: []
+user_id: BeatrizCarvalho

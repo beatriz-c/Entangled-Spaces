@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/a2e3cdbf428c4b61971eeb8b4438b6f6/artifacts
+end_time: 1673646739263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2e3cdbf428c4b61971eeb8b4438b6f6
+run_name: thundering-smelt-858
+run_uuid: a2e3cdbf428c4b61971eeb8b4438b6f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673646401792
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Entangled-Spaces/Payments/Notebooks/mlruns/0/866a1c71270946e69319c36b32e879b4/artifacts
+end_time: 1673722700806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 866a1c71270946e69319c36b32e879b4
+run_name: dapper-mink-875
+run_uuid: 866a1c71270946e69319c36b32e879b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673720062631
+status: 3
+tags: []
+user_id: BeatrizCarvalho

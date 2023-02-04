@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/d87792b0a3584eaebd7d26c397ebf20b/artifacts
+end_time: 1673644761534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d87792b0a3584eaebd7d26c397ebf20b
+run_name: gifted-squid-437
+run_uuid: d87792b0a3584eaebd7d26c397ebf20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673644297685
+status: 3
+tags: []
+user_id: BeatrizCarvalho

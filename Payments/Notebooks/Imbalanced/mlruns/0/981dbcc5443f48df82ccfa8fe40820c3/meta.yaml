@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/981dbcc5443f48df82ccfa8fe40820c3/artifacts
+end_time: 1673644297669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 981dbcc5443f48df82ccfa8fe40820c3
+run_name: glamorous-cat-916
+run_uuid: 981dbcc5443f48df82ccfa8fe40820c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673644012053
+status: 3
+tags: []
+user_id: BeatrizCarvalho

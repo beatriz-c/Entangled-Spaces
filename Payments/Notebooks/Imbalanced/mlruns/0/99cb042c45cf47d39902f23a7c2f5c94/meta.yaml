@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Imbalanced/mlruns/0/99cb042c45cf47d39902f23a7c2f5c94/artifacts
+end_time: 1673648424959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99cb042c45cf47d39902f23a7c2f5c94
+run_name: unequaled-koi-770
+run_uuid: 99cb042c45cf47d39902f23a7c2f5c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673648114524
+status: 3
+tags: []
+user_id: BeatrizCarvalho

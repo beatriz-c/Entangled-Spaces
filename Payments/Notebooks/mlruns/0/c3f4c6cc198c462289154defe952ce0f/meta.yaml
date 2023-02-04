@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Documents/Entangled-Spaces/Payments/Notebooks/mlruns/0/c3f4c6cc198c462289154defe952ce0f/artifacts
+end_time: 1673656195577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f4c6cc198c462289154defe952ce0f
+run_name: suave-gnat-382
+run_uuid: c3f4c6cc198c462289154defe952ce0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673653336529
+status: 3
+tags: []
+user_id: BeatrizCarvalho
