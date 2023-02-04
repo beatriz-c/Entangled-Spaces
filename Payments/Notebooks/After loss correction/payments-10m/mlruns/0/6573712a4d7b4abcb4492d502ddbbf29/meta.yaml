@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/test1/mlruns/0/6573712a4d7b4abcb4492d502ddbbf29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6573712a4d7b4abcb4492d502ddbbf29
+run_name: blushing-hawk-150
+run_uuid: 6573712a4d7b4abcb4492d502ddbbf29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675008208181
+status: 1
+tags: []
+user_id: BeatrizCarvalho

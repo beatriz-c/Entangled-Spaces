@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Music/test1/mlruns/0/d1297525937b48c29d1929a602169637/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1297525937b48c29d1929a602169637
+run_name: enthused-goose-23
+run_uuid: d1297525937b48c29d1929a602169637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675014045416
+status: 1
+tags: []
+user_id: BeatrizCarvalho
