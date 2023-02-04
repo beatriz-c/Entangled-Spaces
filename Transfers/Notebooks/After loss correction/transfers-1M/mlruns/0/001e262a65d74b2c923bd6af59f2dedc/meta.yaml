@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/001e262a65d74b2c923bd6af59f2dedc/artifacts
+end_time: 1674038367574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 001e262a65d74b2c923bd6af59f2dedc
+run_name: dashing-rat-688
+run_uuid: 001e262a65d74b2c923bd6af59f2dedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674034651638
+status: 3
+tags: []
+user_id: BeatrizCarvalho

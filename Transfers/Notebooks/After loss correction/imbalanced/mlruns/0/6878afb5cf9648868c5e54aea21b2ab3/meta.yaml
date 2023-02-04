@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/6878afb5cf9648868c5e54aea21b2ab3/artifacts
+end_time: 1673893300544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6878afb5cf9648868c5e54aea21b2ab3
+run_name: thundering-quail-555
+run_uuid: 6878afb5cf9648868c5e54aea21b2ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893286347
+status: 3
+tags: []
+user_id: BeatrizCarvalho

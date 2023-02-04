@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/965ed3bdf5174b939acafd46de7ccd9a/artifacts
+end_time: 1673892980381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 965ed3bdf5174b939acafd46de7ccd9a
+run_name: crawling-loon-566
+run_uuid: 965ed3bdf5174b939acafd46de7ccd9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673892967510
+status: 3
+tags: []
+user_id: BeatrizCarvalho

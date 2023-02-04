@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/4097f532ce274063bed3651f972f7d5a/artifacts
+end_time: 1673893286331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4097f532ce274063bed3651f972f7d5a
+run_name: bold-steed-30
+run_uuid: 4097f532ce274063bed3651f972f7d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893273568
+status: 3
+tags: []
+user_id: BeatrizCarvalho

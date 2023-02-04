@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/test/mlruns/0/eab9f0a49e014870a55fbb7122caabf6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab9f0a49e014870a55fbb7122caabf6
+run_name: rebellious-horse-576
+run_uuid: eab9f0a49e014870a55fbb7122caabf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674946058112
+status: 1
+tags: []
+user_id: BeatrizCarvalho

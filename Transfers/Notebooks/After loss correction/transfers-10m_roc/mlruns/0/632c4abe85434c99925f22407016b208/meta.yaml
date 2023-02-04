@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/test/mlruns/0/632c4abe85434c99925f22407016b208/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 632c4abe85434c99925f22407016b208
+run_name: nebulous-moose-769
+run_uuid: 632c4abe85434c99925f22407016b208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674772828942
+status: 1
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/4450106d089d49a2a8a30628cddfedf0/artifacts
+end_time: 1673926371457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4450106d089d49a2a8a30628cddfedf0
+run_name: rare-mouse-432
+run_uuid: 4450106d089d49a2a8a30628cddfedf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673924060269
+status: 3
+tags: []
+user_id: BeatrizCarvalho

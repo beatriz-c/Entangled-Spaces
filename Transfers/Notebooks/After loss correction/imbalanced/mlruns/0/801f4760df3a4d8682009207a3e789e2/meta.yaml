@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/801f4760df3a4d8682009207a3e789e2/artifacts
+end_time: 1673893327544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 801f4760df3a4d8682009207a3e789e2
+run_name: learned-perch-546
+run_uuid: 801f4760df3a4d8682009207a3e789e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893314847
+status: 3
+tags: []
+user_id: BeatrizCarvalho

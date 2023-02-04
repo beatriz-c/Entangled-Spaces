@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Downloads/payments-1M/mlruns/0/aa26689de7064355b6489bece08e6791/artifacts
+end_time: 1674064135982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa26689de7064355b6489bece08e6791
+run_name: ambitious-zebra-880
+run_uuid: aa26689de7064355b6489bece08e6791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057452475
+status: 3
+tags: []
+user_id: BeatrizCarvalho

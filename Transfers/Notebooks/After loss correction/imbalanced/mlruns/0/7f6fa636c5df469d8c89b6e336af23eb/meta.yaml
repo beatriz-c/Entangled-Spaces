@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/7f6fa636c5df469d8c89b6e336af23eb/artifacts
+end_time: 1673892912067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f6fa636c5df469d8c89b6e336af23eb
+run_name: likeable-snail-542
+run_uuid: 7f6fa636c5df469d8c89b6e336af23eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673892897066
+status: 3
+tags: []
+user_id: BeatrizCarvalho

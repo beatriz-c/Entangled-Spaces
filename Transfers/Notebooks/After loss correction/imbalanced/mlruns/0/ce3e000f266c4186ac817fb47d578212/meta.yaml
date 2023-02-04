@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/ce3e000f266c4186ac817fb47d578212/artifacts
+end_time: 1673893022787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce3e000f266c4186ac817fb47d578212
+run_name: rebellious-toad-651
+run_uuid: ce3e000f266c4186ac817fb47d578212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893011693
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/841e222a18c24795a7e4d9c43a8cb22b/artifacts
+end_time: 1673893159776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 841e222a18c24795a7e4d9c43a8cb22b
+run_name: judicious-stoat-480
+run_uuid: 841e222a18c24795a7e4d9c43a8cb22b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893148501
+status: 3
+tags: []
+user_id: BeatrizCarvalho

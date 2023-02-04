@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/319fa0ab821a4d14a144ad5a2425f76b/artifacts
+end_time: 1674055982528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 319fa0ab821a4d14a144ad5a2425f76b
+run_name: lyrical-grouse-475
+run_uuid: 319fa0ab821a4d14a144ad5a2425f76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051348946
+status: 3
+tags: []
+user_id: BeatrizCarvalho

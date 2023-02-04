@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/63bd6a0d20dd4ed4af8482393266164e/artifacts
+end_time: 1673893389420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63bd6a0d20dd4ed4af8482393266164e
+run_name: rare-kit-975
+run_uuid: 63bd6a0d20dd4ed4af8482393266164e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893372912
+status: 3
+tags: []
+user_id: BeatrizCarvalho

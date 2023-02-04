@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/c939a4e215be4745bcd2d83de36fc8cd/artifacts
+end_time: 1673920963449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c939a4e215be4745bcd2d83de36fc8cd
+run_name: welcoming-squid-823
+run_uuid: c939a4e215be4745bcd2d83de36fc8cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673917932774
+status: 3
+tags: []
+user_id: BeatrizCarvalho

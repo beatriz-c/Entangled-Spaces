@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/8a3acfe1a3034875a4ff28f18035c60a/artifacts
+end_time: 1673893203303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a3acfe1a3034875a4ff28f18035c60a
+run_name: monumental-wolf-728
+run_uuid: 8a3acfe1a3034875a4ff28f18035c60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893190621
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/ffa604c6b4734c63841ce7b2c640a9da/artifacts
+end_time: 1673892838473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa604c6b4734c63841ce7b2c640a9da
+run_name: brawny-finch-176
+run_uuid: ffa604c6b4734c63841ce7b2c640a9da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673892822630
+status: 3
+tags: []
+user_id: BeatrizCarvalho

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/c3e6fc8800c6452197acad334d0c1d6f/artifacts
+end_time: 1673893518848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e6fc8800c6452197acad334d0c1d6f
+run_name: agreeable-fly-838
+run_uuid: c3e6fc8800c6452197acad334d0c1d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673893503430
+status: 3
+tags: []
+user_id: BeatrizCarvalho

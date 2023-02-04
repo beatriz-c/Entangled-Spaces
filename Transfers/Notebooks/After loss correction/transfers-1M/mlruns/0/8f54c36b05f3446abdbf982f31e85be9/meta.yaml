@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/8f54c36b05f3446abdbf982f31e85be9/artifacts
+end_time: 1674091226850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f54c36b05f3446abdbf982f31e85be9
+run_name: lyrical-duck-4
+run_uuid: 8f54c36b05f3446abdbf982f31e85be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674085980019
+status: 3
+tags: []
+user_id: BeatrizCarvalho

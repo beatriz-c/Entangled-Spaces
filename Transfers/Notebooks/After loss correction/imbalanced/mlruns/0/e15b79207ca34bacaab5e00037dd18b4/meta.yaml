@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/e15b79207ca34bacaab5e00037dd18b4/artifacts
+end_time: 1673892967510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15b79207ca34bacaab5e00037dd18b4
+run_name: capricious-sheep-783
+run_uuid: e15b79207ca34bacaab5e00037dd18b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673892953146
+status: 3
+tags: []
+user_id: BeatrizCarvalho

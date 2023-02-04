@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/Videos/transfers-imbalanced/mlruns/0/41ff221e2dae4f15979fa530789aa3b4/artifacts
+end_time: 1673892869454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ff221e2dae4f15979fa530789aa3b4
+run_name: intelligent-vole-596
+run_uuid: 41ff221e2dae4f15979fa530789aa3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673892853400
+status: 3
+tags: []
+user_id: BeatrizCarvalho

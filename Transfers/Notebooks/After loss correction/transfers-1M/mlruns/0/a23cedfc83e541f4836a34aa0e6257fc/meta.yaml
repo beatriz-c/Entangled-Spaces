@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/a23cedfc83e541f4836a34aa0e6257fc/artifacts
+end_time: 1673962103790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23cedfc83e541f4836a34aa0e6257fc
+run_name: thundering-doe-188
+run_uuid: a23cedfc83e541f4836a34aa0e6257fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673959147128
+status: 3
+tags: []
+user_id: BeatrizCarvalho

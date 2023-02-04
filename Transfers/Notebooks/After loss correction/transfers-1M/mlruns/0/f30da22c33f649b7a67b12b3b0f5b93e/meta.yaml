@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BeatrizCarvalho/OneDrive%20-%20Closer%20Consultoria%20Lda/Pictures/transfers-1M/mlruns/0/f30da22c33f649b7a67b12b3b0f5b93e/artifacts
+end_time: 1674026896228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f30da22c33f649b7a67b12b3b0f5b93e
+run_name: clean-slug-729
+run_uuid: f30da22c33f649b7a67b12b3b0f5b93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674023719178
+status: 3
+tags: []
+user_id: BeatrizCarvalho
